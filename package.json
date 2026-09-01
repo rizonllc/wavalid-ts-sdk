@@ -3,6 +3,23 @@
   "version": "0.1.0",
   "description": "TypeScript SDK for the wavalid WhatsApp number validation API",
   "license": "MIT",
+  "keywords": [
+    "whatsapp",
+    "whatsapp-validation",
+    "phone-validation",
+    "phone-number-validation",
+    "sdk",
+    "typescript",
+    "api-client"
+  ],
+  "homepage": "https://wavalid.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rizonllc/wavalid-ts-sdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rizonllc/wavalid-ts-sdk/issues"
+  },
   "type": "module",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
