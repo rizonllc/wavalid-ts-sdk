@@ -12,7 +12,7 @@
     "typescript",
     "api-client"
   ],
-  "homepage": "https://wavalid.com",
+  "homepage": "https://wavalid.com?utm_source=npm&utm_medium=referral&utm_campaign=ts-sdk",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rizonllc/wavalid-ts-sdk.git"

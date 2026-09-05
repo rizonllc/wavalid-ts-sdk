@@ -1,6 +1,6 @@
 # wavalid-ts-sdk
 
-TypeScript SDK for the [wavalid](https://wavalid.com?utm_source=github?utm_source=github) WhatsApp number validation API. wavalid checks whether a phone number is registered and active on WhatsApp; it does not send messages and does not store phone numbers.
+TypeScript SDK for the [wavalid](https://wavalid.com) WhatsApp number validation API. wavalid checks whether a phone number is registered and active on WhatsApp; it does not send messages and does not store phone numbers.
 
 ## Install
 
@@ -138,6 +138,6 @@ main();
 
 ## Links
 
-- API reference: https://wavalid.com/product/api?utm_source=github
+- API reference: https://wavalid.com/product/api
 - Source / issues: https://github.com/rizonllc/wavalid-ts-sdk
 - License: MIT
